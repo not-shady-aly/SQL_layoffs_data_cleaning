@@ -1,0 +1,101 @@
+company,location,industry,total_laid_off,percentage_laid_off,date,stage,country,funds_raised_millions
+Atlassian,Sydney,Other,500,0.05,3/6/2023,Post-IPO,Australia,210
+SiriusXM,"New York City",Media,475,0.08,3/6/2023,Post-IPO,"United States",525
+Alerzo,Ibadan,Retail,400,NULL,3/6/2023,"Series B",Nigeria,16
+UpGrad,Mumbai,Education,120,NULL,3/6/2023,Unknown,India,631
+Loft,"Sao Paulo","Real Estate",340,0.15,3/3/2023,Unknown,Brazil,788
+"Embark Trucks","SF Bay Area",Transportation,230,0.7,3/3/2023,Post-IPO,"United States",317
+Lendi,Sydney,"Real Estate",100,NULL,3/3/2023,Unknown,Australia,59
+UserTesting,"SF Bay Area",Marketing,63,NULL,3/3/2023,Acquired,"United States",152
+Airbnb,"SF Bay Area",,30,NULL,3/3/2023,Post-IPO,"United States",6400
+Accolade,Seattle,Healthcare,NULL,NULL,3/3/2023,Post-IPO,"United States",458
+Indigo,Boston,Other,NULL,NULL,3/3/2023,"Series F","United States.",1200
+Zscaler,"SF Bay Area",Security,177,0.03,3/2/2023,Post-IPO,"United States",148
+MasterClass,"SF Bay Area",Education,79,NULL,3/2/2023,"Series E","United States",461
+"Ambev Tech",Blumenau,Food,50,NULL,3/2/2023,Acquired,Brazil,NULL
+Fittr,Pune,Fitness,30,0.11,3/2/2023,"Series A",India,13
+CNET,"SF Bay Area",Media,12,0.1,3/2/2023,Acquired,"United States",20
+Flipkart,Bengaluru,Retail,NULL,NULL,3/2/2023,Acquired,India,12900
+Kandela,"Los Angeles",Consumer,NULL,1,3/2/2023,Acquired,"United States",NULL
+Truckstop.com,Boise,Logistics,NULL,NULL,3/2/2023,Acquired,"United States",NULL
+Thoughtworks,Chicago,Other,500,0.04,3/1/2023,Post-IPO,"United States",748
+iFood,"Sao Paulo",Food,355,0.06,3/1/2023,Subsidiary,Brazil,2100
+"Color Health","SF Bay Area",Healthcare,300,NULL,3/1/2023,"Series E","United States",482
+Waymo,"SF Bay Area",Transportation,209,0.08,3/1/2023,Subsidiary,"United States",5500
+PayFit,Paris,HR,200,0.2,3/1/2023,"Series E",France,495
+Yellow.ai,"SF Bay Area",Support,200,NULL,3/1/2023,"Series C","United States",102
+Sonder,"SF Bay Area",Travel,100,0.14,3/1/2023,Post-IPO,"United States",839
+"Protego Trust Bank",Seattle,Crypto,NULL,0.5,3/1/2023,"Series A","United States",70
+"Electronic Arts","Baton Rouge",Consumer,200,NULL,2/28/2023,Post-IPO,"United States",2
+Eventbrite,"SF Bay Area",Consumer,80,0.08,2/28/2023,Post-IPO,"United States",557
+"DUX Education",Bengaluru,Education,NULL,1,2/28/2023,Unknown,India,NULL
+MeridianLink,"Los Angeles",Finance,NULL,0.09,2/28/2023,Post-IPO,"United States",485
+"Sono Motors",Munich,Transportation,300,NULL,2/27/2023,Post-IPO,Germany,126
+Cerebral,"SF Bay Area",Healthcare,285,0.15,2/27/2023,"Series C","United States",462
+Amount,Chicago,Finance,130,0.25,2/27/2023,Unknown,"United States",283
+Palantir,Denver,Data,75,0.02,2/27/2023,Post-IPO,"United States.",3000
+Outreach,Seattle,Sales,70,0.07,2/27/2023,"Series G","United States",489
+Stytch,"SF Bay Area",Security,19,0.25,2/27/2023,"Series B","United States",126
+BitSight,"Tel Aviv",Security,40,NULL,2/26/2023,Unknown,Israel,401
+Twitter,"SF Bay Area",Consumer,200,0.1,2/25/2023,Post-IPO,"United States",12900
+Ericsson,Stockholm,Other,8500,0.08,2/24/2023,Post-IPO,Sweden,663
+"SAP Labs",Bengaluru,Other,300,NULL,2/24/2023,Subsidiary,India,1300
+"Velodyne Lidar","SF Bay Area",Transportation,220,NULL,2/24/2023,Acquired,"United States",575
+Medallia,"SF Bay Area",Support,59,NULL,2/24/2023,Acquired,"United States",325
+"Eat Just","SF Bay Area",Food,40,NULL,2/24/2023,Unknown,"United States",465
+"Lucira Health","SF Bay Area",Healthcare,26,NULL,2/24/2023,Post-IPO,"United States",132
+Stax,Orlando,Finance,24,NULL,2/24/2023,"Series D","United States",263
+Poshmark,"SF Bay Area",Retail,NULL,0.02,2/24/2023,Acquired,"United States",153
+Merative,"Ann Arbor",Healthcare,200,0.1,2/23/2023,Acquired,"United States",NULL
+OneFootball,Berlin,Marketing,150,0.32,2/23/2023,"Series D",Germany,442
+"The Iconic",Sydney,Retail,69,0.06,2/23/2023,Unknown,Australia,NULL
+EVgo,"Los Angeles",Transportation,40,NULL,2/23/2023,Post-IPO,"United States",400
+StrongDM,"SF Bay Area",Infrastructure,40,NULL,2/23/2023,"Series B","United States",76
+"Dapper Labs",Vancouver,Crypto,NULL,0.2,2/23/2023,"Series D","United States",607
+Messari,"New York City",Crypto,NULL,0.15,2/23/2023,"Series B","United States",61
+"Vibrent Health","Washington D.C.",Healthcare,NULL,0.13,2/23/2023,Unknown,"United States",NULL
+Synamedia,London,Media,200,0.12,2/22/2023,Unknown,"United Kingdom",NULL
+TaskUs,"San Antonio",Support,186,NULL,2/22/2023,Post-IPO,"United States",279
+"Arch Oncology","St. Louis",Healthcare,NULL,NULL,2/22/2023,"Series C","United States",155
+Immutable,Sydney,Crypto,NULL,0.11,2/22/2023,"Series C",Australia,279
+"Jounce Therapeutics",Boston,Healthcare,NULL,0.57,2/22/2023,Acquired,"United States",194
+Locomation,Pittsburgh,Transportation,NULL,1,2/22/2023,Seed,"United States",57
+Polygon,Bengaluru,Crypto,100,0.2,2/21/2023,Unknown,India,451
+Crunchyroll,Tokyo,Media,85,NULL,2/21/2023,Unknown,Japan,26
+"Ethos Life","SF Bay Area",Finance,50,NULL,2/21/2023,"Series D","United States",406
+Bolt,Lagos,Transportation,17,NULL,2/21/2023,"Series F",Nigeria,NULL
+Criteo,Paris,Marketing,NULL,NULL,2/21/2023,Post-IPO,France,61
+"Green Labs",Seoul,Food,NULL,NULL,2/21/2023,"Series C","South Korea",214
+PeerStreet,"Los Angeles","Real Estate",NULL,NULL,2/21/2023,"Series C","United States",121
+Zalando,Berlin,Retail,NULL,NULL,2/21/2023,Post-IPO,Germany,467
+MyGate,Bengaluru,Other,200,0.3,2/20/2023,"Series B",India,79
+Fireblocks,"New York City",Crypto,30,0.05,2/20/2023,"Series E","United States",1000
+Kinde,Sydney,Other,8,0.28,2/20/2023,Seed,Australia,10
+Fipola,Chennai,Food,NULL,1,2/20/2023,"Series A","United States",9
+HP,"Tel Aviv",Hardware,100,NULL,2/19/2023,Post-IPO,Israel,4200
+Tencent,Shenzen,Consumer,300,NULL,2/17/2023,Post-IPO,China,12600
+Evernote,"SF Bay Area",Consumer,129,NULL,2/17/2023,Acquired,"United States",290
+"Chipper Cash","SF Bay Area",Finance,100,0.33,2/17/2023,"Series C","United States",302
+Digimarc,Portland,Other,NULL,NULL,2/17/2023,Post-IPO,"United States",105
+Reserve,"SF Bay Area",Crypto,NULL,NULL,2/17/2023,Unknown,"United States",NULL
+DocuSign,"SF Bay Area",Sales,680,0.1,2/16/2023,Post-IPO,"United States",536
+"Pico Interactive","SF Bay Area",Other,400,0.2,2/16/2023,Acquired,"United States",62
+"The RealReal","SF Bay Area",Retail,230,0.07,2/16/2023,Post-IPO,"United States",356
+Smartsheet,Seattle,Other,85,0.03,2/16/2023,Post-IPO,"United States",152
+Convoy,Atlanta,Logistics,NULL,NULL,2/16/2023,"Series E","United States",1100
+Wix,"Tel Aviv",Marketing,370,0.06,2/15/2023,Post-IPO,Israel,58
+ServiceTitan,"Los Angeles",Sales,221,0.08,2/15/2023,"Series G","United States",1100
+Neon,"Sao Paulo",Finance,210,0.09,2/15/2023,"Series D",Brazil,720
+Jellysmack,Paris,Media,208,NULL,2/15/2023,"Series C",France,22
+DigitalOcean,"New York City",Infrastructure,200,0.11,2/15/2023,Post-IPO,"United States",491
+Sprinklr,"New York City",Support,100,0.04,2/15/2023,Post-IPO,"United States",429
+Betterment,"New York City",Finance,28,NULL,2/15/2023,"Series F","United States",435
+"Divvy Homes","SF Bay Area","Real Estate",NULL,NULL,2/15/2023,"Series B","United States",180
+Milkrun,Sydney,Food,NULL,0.2,2/15/2023,"Series A",Australia,86
+Momentive,"SF Bay Area",Marketing,NULL,0.14,2/15/2023,Post-IPO,"United States",1100
+Observe.AI,"SF Bay Area",Support,NULL,NULL,2/15/2023,"Series C","United States",214
+"Religion of Sports","Los Angeles",Media,NULL,NULL,2/15/2023,"Series B","United States",63
+Tackle,Boise,Other,NULL,0.15,2/15/2023,"Series C","United States",148
+"Vicarious Surgical",Boston,Healthcare,NULL,0.14,2/15/2023,Post-IPO,"United States",185
+CommerceHub,Albany,Retail,371,0.31,2/14/2023,Acquired,"United States",NULL
+HackerEarth,"SF Bay Area",HR,NULL,0.08,2/14/2023,"Series B","United States",11
